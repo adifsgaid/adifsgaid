@@ -1,3 +1,1 @@
-
-
-You are the ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red) th visitor to visit me, Welcome :) 
+Full stack developer, fluent in Ruby on Rails, React, and Go. Can code circles around any problem, and make it look like a square.
