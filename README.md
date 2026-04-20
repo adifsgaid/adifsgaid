@@ -1,6 +1,4 @@
-Yoo :)
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/adifsgaid/count.svg" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adifsgaid.adifsgaid" alt="Visitor Count" />
 </p>
 <p align="center">You are visitor number ⬆️</p>
