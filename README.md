@@ -1,1 +1,6 @@
-Full stack developer, fluent in Ruby on Rails, React, and Go. Can code circles around any problem, and make it look like a square.
+Yoo :)
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/adifsgaid/count.svg" alt="Visitor Count" />
+</p>
+<p align="center">You are visitor number ⬆️</p>
